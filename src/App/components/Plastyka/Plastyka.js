@@ -6,7 +6,7 @@ import Header from '../Header/Header';
 const Plastyka = () => {
     return (
         <div className="content">
-            <Header subject="biologia" teacher="Sabina Borner" />
+            <Header subject="plastyka" teacher="Sabina Borner" />
 
             <Lesson date="20.03.2020">
                 Drodzy uczniowie, proszę zapisać temat w zeszycie ,,Język mody

@@ -44,3 +44,35 @@
 .content {
     padding: 30px;
 }
+
+@media (max-width: 500px) {
+    .App {
+        flex-direction: column;
+        height: 100%;
+        width: 100%;
+        padding: 0;
+    }
+
+    .App-content {
+        width: 100%;
+    }
+
+    .App-sidebar {
+        width: 100%;
+    }
+
+    .navigation {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        font-size: 70%;
+    }
+
+    .nav-item {
+        width: 70px;
+    }
+
+    .content {
+        padding: 5px;
+    }
+}
