@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/6c-in-react/static/css/main.25ef6b9e.chunk.css",
-    "main.js": "/6c-in-react/static/js/main.15fbe41d.chunk.js",
-    "main.js.map": "/6c-in-react/static/js/main.15fbe41d.chunk.js.map",
+    "main.css": "/6c-in-react/static/css/main.3ad628f4.chunk.css",
+    "main.js": "/6c-in-react/static/js/main.ab825ed8.chunk.js",
+    "main.js.map": "/6c-in-react/static/js/main.ab825ed8.chunk.js.map",
     "runtime-main.js": "/6c-in-react/static/js/runtime-main.ee43c9c3.js",
     "runtime-main.js.map": "/6c-in-react/static/js/runtime-main.ee43c9c3.js.map",
     "static/js/2.2d2e670e.chunk.js": "/6c-in-react/static/js/2.2d2e670e.chunk.js",
     "static/js/2.2d2e670e.chunk.js.map": "/6c-in-react/static/js/2.2d2e670e.chunk.js.map",
     "index.html": "/6c-in-react/index.html",
-    "precache-manifest.7ab03b30600c97ce1b503b9c7f06d590.js": "/6c-in-react/precache-manifest.7ab03b30600c97ce1b503b9c7f06d590.js",
+    "precache-manifest.624fdcd36ef951c11d14e3cc60a4e29c.js": "/6c-in-react/precache-manifest.624fdcd36ef951c11d14e3cc60a4e29c.js",
     "service-worker.js": "/6c-in-react/service-worker.js",
-    "static/css/main.25ef6b9e.chunk.css.map": "/6c-in-react/static/css/main.25ef6b9e.chunk.css.map",
+    "static/css/main.3ad628f4.chunk.css.map": "/6c-in-react/static/css/main.3ad628f4.chunk.css.map",
     "static/js/2.2d2e670e.chunk.js.LICENSE.txt": "/6c-in-react/static/js/2.2d2e670e.chunk.js.LICENSE.txt",
     "static/media/17032020-1.jpg": "/6c-in-react/static/media/17032020-1.23fe2cdb.jpg",
     "static/media/zad2.pdf": "/6c-in-react/static/media/zad2.273857e3.pdf"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.ee43c9c3.js",
     "static/js/2.2d2e670e.chunk.js",
-    "static/css/main.25ef6b9e.chunk.css",
-    "static/js/main.15fbe41d.chunk.js"
+    "static/css/main.3ad628f4.chunk.css",
+    "static/js/main.ab825ed8.chunk.js"
   ]
 }
