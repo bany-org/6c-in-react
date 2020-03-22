@@ -1,4 +1,5 @@
 import React from 'react';
+import './Matematyka.css';
 
 import zad1 from './17032020-1.jpg';
 import zad2 from './17032020-2.jpg';
