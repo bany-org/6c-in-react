@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
+import { Switch, Route, Link, Redirect, HashRouter } from 'react-router-dom';
 
 import './App.css';
 
@@ -15,9 +15,8 @@ import Plastyka from './components/Plastyka/Plastyka';
 import Wf from './components/Wf/Wf';
 
 function App() {
-    console.log('param');
     return (
-        <Router>
+        <HashRouter basename="/">
             <div className="App">
                 <div className="App-sidebar">
                     <nav className="navigation">
@@ -88,10 +87,11 @@ function App() {
                         <Route path="/wf">
                             <Wf />
                         </Route>
+                        <Redirect to="/"></Redirect>
                     </Switch>
                 </div>
             </div>
-        </Router>
+        </HashRouter>
     );
 }
 
