@@ -38,8 +38,25 @@
     text-align: center;
 }
 
+.selected {
+    box-sizing: border-box;
+    background-color: goldenrod;
+    margin: 10px;
+    height: 60px;
+    width: 120px;
+    text-decoration: none;
+    color: #333c4f;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    text-align: center;
+}
+
 .nav-item:hover {
     transform: scale(1.1);
+    background-color: lightgoldenrodyellow;
 }
 
 .content {

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Switch, Route, Link, Redirect, HashRouter } from 'react-router-dom';
+import { Switch, Route, NavLink, Redirect, HashRouter } from 'react-router-dom';
 
 import './App.css';
 
@@ -20,36 +20,77 @@ function App() {
             <div className="App">
                 <div className="App-sidebar">
                     <nav className="navigation">
-                        <Link to="/" className="nav-item">
+                        <NavLink
+                            exact
+                            to="/"
+                            className="nav-item"
+                            activeClassName="selected"
+                        >
                             Home
-                        </Link>
-                        <Link to="/polski" className="nav-item">
+                        </NavLink>
+                        <NavLink
+                            to="/polski"
+                            className="nav-item"
+                            activeClassName="selected"
+                        >
                             Polski
-                        </Link>
-                        <Link to="/angielski" className="nav-item">
+                        </NavLink>
+                        <NavLink
+                            to="/angielski"
+                            className="nav-item"
+                            activeClassName="selected"
+                        >
                             Angielski
-                        </Link>
-                        <Link to="/matematyka" className="nav-item">
+                        </NavLink>
+                        <NavLink
+                            to="/matematyka"
+                            className="nav-item"
+                            activeClassName="selected"
+                        >
                             Matematyka
-                        </Link>
-                        <Link to="/informatyka" className="nav-item">
+                        </NavLink>
+                        <NavLink
+                            to="/informatyka"
+                            className="nav-item"
+                            activeClassName="selected"
+                        >
                             Informatyka i technika
-                        </Link>
-                        <Link to="/historia" className="nav-item">
+                        </NavLink>
+                        <NavLink
+                            to="/historia"
+                            className="nav-item"
+                            activeClassName="selected"
+                        >
                             Historia
-                        </Link>
-                        <Link to="/muzyka" className="nav-item">
+                        </NavLink>
+                        <NavLink
+                            to="/muzyka"
+                            className="nav-item"
+                            activeClassName="selected"
+                        >
                             Muzyka
-                        </Link>
-                        <Link to="/biologia" className="nav-item">
+                        </NavLink>
+                        <NavLink
+                            to="/biologia"
+                            className="nav-item"
+                            activeClassName="selected"
+                        >
                             Biologia
-                        </Link>
-                        <Link to="/plastyka" className="nav-item">
+                        </NavLink>
+                        <NavLink
+                            to="/plastyka"
+                            className="nav-item"
+                            activeClassName="selected"
+                        >
                             Plastyka
-                        </Link>
-                        <Link to="/wf" className="nav-item">
+                        </NavLink>
+                        <NavLink
+                            to="/wf"
+                            className="nav-item"
+                            activeClassName="selected"
+                        >
                             Wf
-                        </Link>
+                        </NavLink>
                     </nav>
                 </div>
 
