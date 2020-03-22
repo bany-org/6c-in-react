@@ -10,6 +10,9 @@ import Matematyka from './components/Matematyka/Matematyka';
 import Informatyka from './components/Informatyka/Informatyka';
 import Historia from './components/Historia/Historia';
 import Muzyka from './components/Muzyka/Muzyka';
+import Biologia from './components/Biologia/Biologia';
+import Plastyka from './components/Plastyka/Plastyka';
+import Wf from './components/Wf/Wf';
 
 function App() {
     console.log('param');
@@ -39,6 +42,15 @@ function App() {
                         <Link to="/muzyka" className="nav-item">
                             Muzyka
                         </Link>
+                        <Link to="/biologia" className="nav-item">
+                            Biologia
+                        </Link>
+                        <Link to="/plastyka" className="nav-item">
+                            Plastyka
+                        </Link>
+                        <Link to="/wf" className="nav-item">
+                            Wf
+                        </Link>
                     </nav>
                 </div>
 
@@ -66,6 +78,15 @@ function App() {
                         </Route>
                         <Route path="/muzyka">
                             <Muzyka />
+                        </Route>
+                        <Route path="/biologia">
+                            <Biologia />
+                        </Route>
+                        <Route path="/plastyka">
+                            <Plastyka />
+                        </Route>
+                        <Route path="/wf">
+                            <Wf />
                         </Route>
                     </Switch>
                 </div>
