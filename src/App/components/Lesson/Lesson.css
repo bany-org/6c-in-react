@@ -1,0 +1,12 @@
+.lesson {
+    background-color: lightgoldenrodyellow;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+    border: solid 1px goldenrod;
+}
+
+.lesson-content {
+    margin-top: 10px;
+    padding-left: 20px;
+}

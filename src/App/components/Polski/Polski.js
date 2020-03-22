@@ -1,11 +1,14 @@
 import React from 'react';
-import './Polski.css';
+
+import Lesson from '../Lesson/Lesson';
+import Info from '../Info/Info';
+import Header from '../Header/Header';
 
 function Polski() {
     return (
         <div className="content">
-            <h1>j. polski</h1>
-            <p>
+            <Header subject="język polski" teacher="Bożena Nowakowska" />
+            <Info>
                 <em>
                     Dzień dobry, Kochani, na wstępie jeszcze raz chcę wyjaśnić
                     zasady pracy, bo możliwe, że się do końca nie zrozumieliśmy.
@@ -17,96 +20,90 @@ function Polski() {
                     dokumencie tekstowym - Word, Open Office i wysyłacie mi ma
                     maila jako załącznik. Pozdrawiam.
                 </em>
-            </p>
-            <ul>
-                <li>
-                    19.03.2020 - Kochani, na wstępie jeśli ktoś jest chętny i
-                    chce napisać wypracowanie zadane we wtorek (ćwiczenie 6
-                    strona220) to zapisuje je w dokumencie tekstowym - Open
-                    Office, Word. To co zapisujecie w zeszytach, nie wysyłacie.
-                    Dzisiejszy temat: Jak napisać dedykację? <br />
-                    1. Przepisz definicję dedykacji i plan dedykacji do zeszytu
-                    z podręcznika - strona 225-226. <br />
-                    2. Zapoznaj się z wzorem dedykacji i przepisz 1 przykład do
-                    zeszytu- strona 226 podręcznik <br />
-                    3. Wykonaj ćwiczenia w zeszycie ćwiczeń 92,93,94,95 strona
-                    53 zeszyt ćwiczeń Z dzisiejszej lekcji nic mi nie wysyłacie.{' '}
-                    <br />
-                    Pozdrawiam. Trzymajcie się cieplutko. Dbajcie o siebie.
-                    Bożena Nowakowska
-                </li>
-                <li>
-                    18.03.2020 - Dzień dobry, <br />
-                    Temat:Bibliofil w pizzerii.
-                    <ol>
-                        <li>
-                            Przeczytaj fragment utworu M. Musierowicz "Język
-                            Trolli" - podręcznik strona - 221-224
-                        </li>
-                        <li>
-                            Wyjaśnij , znaczenie słów: bibliofil, barbarzyństwo,
-                            barbarzyńca - sprawdż w słowniku, wyjaśnienie słowa
-                            bibliofil - podręcznik strona 226
-                        </li>
-                        <li>
-                            Napisz plan zdarzeń w formie równoważników zdań -
-                            pisemnie w zeszycie
-                        </li>
-                        <li>
-                            Opowiedz ustnie w narracji pierwszoosobowej o
-                            zdarzaniach w pizzerii z punktu widzenia jednej z
-                            wymienionych osób: dziadka, Józinka, właściciela
-                            pizzerii, innych klientów
-                        </li>
-                        <li>
-                            Odpowiedz pisemnie na pytanie - Jaka sytuacja
-                            wywołała oburzenie,gniew, co było barbarzyństwem w
-                            oczach dziadka? Czy podzielasz jego opinię?
-                            Dlaczego? Tyle na dzisiaj. Jeżeli macie jakieś
-                            problemy, to proszę napisać. Pamiętajcie o czytaniu
-                            lektury- termin 4.05.2020. Spokojnie pracujcie.
-                            Pozdrawiam. Do piątku.
-                        </li>
-                    </ol>
-                </li>
+            </Info>
 
-                <li>
-                    17.03.2020 - Zdjęcie poleceń: Dzień dobry, zaczynamy. <br />
-                    Zapisujcie wszystko w zeszytach przedmiotowych. Będzie
-                    dobrze. Pracujcie spokojnie, bez pośpiechu. <br />
-                    Temat: Niezawodny sposób na słotę,
-                    <ol>
-                        <li>
-                            Przeczytaj utwór ' Na słotę" S. Grochowiaka -
-                            podręcznik , strona 220
-                        </li>
-                        <li>
-                            Odpowiedz pisemnie pełnymi zdaniami na pytania 1,2
-                            na stronie 2203
-                        </li>
-                        <li>
-                            Przed przystąpieniem do zadania 3 przypomnij sobie
-                            co to jest : wers , rymy, jakie są rodzaje rymów,
-                            anafora, przenośnia. Następnie odpowiedz na zadanie
-                            3 - jaką budowę ma utwór- ile jest wersów, wypisz
-                            anaforę i odpowiedz jaką funkcję pełni ten środek
-                            artystyczny w utworze, zaznacz i nazwij rodzaj
-                            rymów. Nie ucz się wiersza na pamięć.{' '}
-                        </li>
-                        <li>Zadanie 5 strona 220. </li>
-                        <li>
-                            Dla chętnych - zadanie 6 strona 220. Napisz w
-                            zeszycie lub wyślij jako załącznik na mojego maila-
-                            adres podałam wczoraj. Praca - 2 strony. Sprawdzę i
-                            ocenię. Prace można przesyłać do poniedziałku 23
-                            marca. Tyle na dzisiaj. Serdecznie pozdrawiam.
-                            Bożena Nowakowska.
-                        </li>
-                    </ol>
-                </li>
-            </ul>
+            <Lesson date="19.03.2020">
+                Kochani, na wstępie jeśli ktoś jest chętny i chce napisać
+                wypracowanie zadane we wtorek (ćwiczenie 6 strona220) to
+                zapisuje je w dokumencie tekstowym - Open Office, Word. To co
+                zapisujecie w zeszytach, nie wysyłacie. Dzisiejszy temat: Jak
+                napisać dedykację? <br />
+                1. Przepisz definicję dedykacji i plan dedykacji do zeszytu z
+                podręcznika - strona 225-226. <br />
+                2. Zapoznaj się z wzorem dedykacji i przepisz 1 przykład do
+                zeszytu- strona 226 podręcznik <br />
+                3. Wykonaj ćwiczenia w zeszycie ćwiczeń 92,93,94,95 strona 53
+                zeszyt ćwiczeń Z dzisiejszej lekcji nic mi nie wysyłacie. <br />
+                Pozdrawiam. Trzymajcie się cieplutko. Dbajcie o siebie. Bożena
+                Nowakowska
+            </Lesson>
+            <Lesson date="18.03.2020">
+                Temat:Bibliofil w pizzerii.
+                <ol>
+                    <li>
+                        Przeczytaj fragment utworu M. Musierowicz "Język Trolli"
+                        - podręcznik strona - 221-224
+                    </li>
+                    <li>
+                        Wyjaśnij , znaczenie słów: bibliofil, barbarzyństwo,
+                        barbarzyńca - sprawdż w słowniku, wyjaśnienie słowa
+                        bibliofil - podręcznik strona 226
+                    </li>
+                    <li>
+                        Napisz plan zdarzeń w formie równoważników zdań -
+                        pisemnie w zeszycie
+                    </li>
+                    <li>
+                        Opowiedz ustnie w narracji pierwszoosobowej o
+                        zdarzaniach w pizzerii z punktu widzenia jednej z
+                        wymienionych osób: dziadka, Józinka, właściciela
+                        pizzerii, innych klientów
+                    </li>
+                    <li>
+                        Odpowiedz pisemnie na pytanie - Jaka sytuacja wywołała
+                        oburzenie,gniew, co było barbarzyństwem w oczach
+                        dziadka? Czy podzielasz jego opinię? Dlaczego? Tyle na
+                        dzisiaj. Jeżeli macie jakieś problemy, to proszę
+                        napisać. Pamiętajcie o czytaniu lektury- termin
+                        4.05.2020. Spokojnie pracujcie. Pozdrawiam. Do piątku.
+                    </li>
+                </ol>
+            </Lesson>
+            <Lesson date="17.03.2020">
+                Zdjęcie poleceń: Dzień dobry, zaczynamy. <br />
+                Zapisujcie wszystko w zeszytach przedmiotowych. Będzie dobrze.
+                Pracujcie spokojnie, bez pośpiechu. <br />
+                Temat: Niezawodny sposób na słotę,
+                <ol>
+                    <li>
+                        Przeczytaj utwór ' Na słotę" S. Grochowiaka - podręcznik
+                        , strona 220
+                    </li>
+                    <li>
+                        Odpowiedz pisemnie pełnymi zdaniami na pytania 1,2 na
+                        stronie 2203
+                    </li>
+                    <li>
+                        Przed przystąpieniem do zadania 3 przypomnij sobie co to
+                        jest : wers , rymy, jakie są rodzaje rymów, anafora,
+                        przenośnia. Następnie odpowiedz na zadanie 3 - jaką
+                        budowę ma utwór- ile jest wersów, wypisz anaforę i
+                        odpowiedz jaką funkcję pełni ten środek artystyczny w
+                        utworze, zaznacz i nazwij rodzaj rymów. Nie ucz się
+                        wiersza na pamięć.{' '}
+                    </li>
+                    <li>Zadanie 5 strona 220. </li>
+                    <li>
+                        Dla chętnych - zadanie 6 strona 220. Napisz w zeszycie
+                        lub wyślij jako załącznik na mojego maila- adres podałam
+                        wczoraj. Praca - 2 strony. Sprawdzę i ocenię. Prace
+                        można przesyłać do poniedziałku 23 marca. Tyle na
+                        dzisiaj. Serdecznie pozdrawiam. Bożena Nowakowska.
+                    </li>
+                </ol>
+            </Lesson>
 
-            <div>
+            <Info>
                 Drodzy Rodzice, w związku z zawieszeniem zajęć lekcyjnych od
                 dnia dzisiejszego do 25 marca nauka będzie odbywała się zdalnie.{' '}
                 <br />
@@ -134,7 +131,7 @@ function Polski() {
                 zaległości lekturowych, na gry planszowe i wspólny czas z
                 Rodziną. Zostańcie w domu. Serdecznie pozdrawiam - Bożena
                 Nowakowska
-            </div>
+            </Info>
         </div>
     );
 }

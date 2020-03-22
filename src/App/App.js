@@ -1,14 +1,18 @@
 import React from 'react';
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
 
-// import logo from './logo.svg';
 import './App.css';
 
 import Home from './components/Home/Home';
 import Polski from './components/Polski/Polski';
+import Angielski from './components/Angielski/Angielski';
 import Matematyka from './components/Matematyka/Matematyka';
+import Informatyka from './components/Informatyka/Informatyka';
+import Historia from './components/Historia/Historia';
+import Muzyka from './components/Muzyka/Muzyka';
 
 function App() {
+    console.log('param');
     return (
         <Router>
             <div className="App">
@@ -20,11 +24,20 @@ function App() {
                         <Link to="/polski" className="nav-item">
                             Polski
                         </Link>
+                        <Link to="/angielski" className="nav-item">
+                            Angielski
+                        </Link>
                         <Link to="/matematyka" className="nav-item">
                             Matematyka
                         </Link>
-                        <Link to="/angielski" className="nav-item">
-                            Angielski
+                        <Link to="/informatyka" className="nav-item">
+                            Informatyka i technika
+                        </Link>
+                        <Link to="/historia" className="nav-item">
+                            Historia
+                        </Link>
+                        <Link to="/muzyka" className="nav-item">
+                            Muzyka
                         </Link>
                     </nav>
                 </div>
@@ -39,8 +52,20 @@ function App() {
                         <Route path="/polski">
                             <Polski />
                         </Route>
+                        <Route path="/angielski">
+                            <Angielski />
+                        </Route>
                         <Route path="/matematyka">
                             <Matematyka />
+                        </Route>
+                        <Route path="/informatyka">
+                            <Informatyka />
+                        </Route>
+                        <Route path="/historia">
+                            <Historia />
+                        </Route>
+                        <Route path="/muzyka">
+                            <Muzyka />
                         </Route>
                     </Switch>
                 </div>

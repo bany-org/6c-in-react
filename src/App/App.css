@@ -7,7 +7,6 @@
 
 .App-sidebar {
     background-color: #333c4f;
-    /* height: 100vh; */
 }
 
 .App-content {
@@ -33,9 +32,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 10px;
+}
+
+.nav-item:hover {
+    transform: scale(1.1);
 }
 
 .content {
     padding: 30px;
-    height: 100%;
 }
