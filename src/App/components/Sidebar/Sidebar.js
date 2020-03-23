@@ -43,7 +43,7 @@ const config = [
         name: 'Plastyka'
     },
     {
-        path: '/af',
+        path: '/wf',
         name: 'Wf'
     }
 ];
