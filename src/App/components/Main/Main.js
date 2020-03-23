@@ -1,5 +1,8 @@
 import React from 'react';
+import { useEffect, useRef } from 'react';
+
 import { Switch, Route, Redirect } from 'react-router-dom';
+import { useLocation } from 'react-router-dom';
 
 import Home from '../Home/Home';
 import Polski from '../Polski/Polski';
@@ -15,8 +18,15 @@ import Wf from '../Wf/Wf';
 import './Main.css';
 
 const Main = () => {
+    const { pathname } = useLocation();
+    const main = useRef(null);
+
+    useEffect(() => {
+        main.current.scrollTop = 0;
+    }, [pathname]);
+
     return (
-        <div className="main">
+        <div className="main" ref={main}>
             <Switch>
                 <Route exact path="/">
                     <Home />
