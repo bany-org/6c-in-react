@@ -8,7 +8,7 @@ function Home() {
                 target="_blank"
                 rel="noopener noreferrer"
             >
-                Poprzednia werska strony123
+                Poprzednia werska strony1234
             </a>
         </>
     );
