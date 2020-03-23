@@ -1,13 +1,33 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
 import Lesson from '../Lesson/Lesson';
 import Info from '../Info/Info';
 import Header from '../Header/Header';
 
+function ScrollToTopOnMount() {
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, []);
+
+    return null;
+}
+
 function Polski() {
     return (
         <div className="content">
+            <ScrollToTopOnMount />
             <Header subject="język polski" teacher="Bożena Nowakowska" />
+            <Lesson date="23.03.2020">
+                Dzień dobry, Mam nadzieję, że bez problemu poradziliście sobie z
+                krótką formą wypowiedzi, jaką jest dedykacja. Myślę, że
+                niejednokrotnie pisaliście dedykacje swoim najbliższym,
+                koleżankom i kolegom. Proszę napisać w dokumencie tekstowym Open
+                Office i przesłać mi na maila 2 dedykacje . Napisz dedykacje,
+                które napisałbyś w książkach, które ofiarujesz w prezencie: a.
+                bliskiej koleżance lub bliskiemu koledze: b.nauczycielowi,
+                wychowawcy, księdzu lub trenerowi Postępuj według planu ze s.226
+                -podręcznik Praca na czwartek 26 marca. Pozdrawiam.
+            </Lesson>
             <Info>
                 <em>
                     Dzień dobry, Kochani, na wstępie jeszcze raz chcę wyjaśnić
