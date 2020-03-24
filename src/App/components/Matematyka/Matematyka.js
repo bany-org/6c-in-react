@@ -5,7 +5,8 @@ import zad1 from './17032020-1.jpg';
 import zad2 from './17032020-2.jpg';
 import zad3 from './17032020-3.jpg';
 
-import pdf1 from './zad2.pdf';
+import pdf2 from './zad2.pdf';
+import pdf3 from './zad3.pdf';
 
 import Lesson from '../Lesson/Lesson';
 import Header from '../Header/Header';
@@ -14,8 +15,13 @@ const Matematyka = () => {
     return (
         <div className="content">
             <Header subject="matematyka" teacher="" />
+            <Lesson date="24.03.2020">
+                <a href={pdf3} target="_blank" rel="noopener noreferrer">
+                    plik.pdf
+                </a>
+            </Lesson>
             <Lesson date="20.03.2020">
-                <a href={pdf1} target="_blank" rel="noopener noreferrer">
+                <a href={pdf2} target="_blank" rel="noopener noreferrer">
                     plik.pdf
                 </a>
             </Lesson>
