@@ -2,6 +2,7 @@ import React from 'react';
 
 import Lesson from '../Lesson/Lesson';
 import Header from '../Header/Header';
+import LinkButton from '../LinkButton/LinkButton';
 
 const Wf = () => {
     return (
@@ -18,15 +19,11 @@ const Wf = () => {
                 dorosłymi. Zachęcam do wspólnej zabawy, a endorfiny wytwarzające
                 się w czasie ćwiczeń fizycznych wpłyną na poprawę nastroju a tym
                 samym będą wspierać utrzymanie zdrowia. Jest to także fajny
-                sposób na "nudę". Ćwiczymy codziennie przez cały tydzień. <br />
-                <a
-                    href="https://wordwall.net/pl/resource/893767/wychowanie-fizyczne/wf-online-w-domu-%C4%87wiczenia"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    Link
-                </a>{' '}
-                <br />
+                sposób na "nudę". Ćwiczymy codziennie przez cały tydzień.
+                <LinkButton
+                    link="https://wordwall.net/pl/resource/893767/wychowanie-fizyczne/wf-online-w-domu-%C4%87wiczenia"
+                    name="Koło fortuny"
+                ></LinkButton>
                 pozdrawiam Janusz Zieliński
             </Lesson>
         </div>

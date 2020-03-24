@@ -2,6 +2,7 @@ import React from 'react';
 
 import Lesson from '../Lesson/Lesson';
 import Header from '../Header/Header';
+import LinkButton from '../LinkButton/LinkButton';
 
 const Informatyka = () => {
     return (
@@ -16,14 +17,10 @@ const Informatyka = () => {
                 wybrany obraz zapisać na pulpicie <br />
                 w Pivocie - Plik - Wczytaj obraz Sprite <br />
                 Pozdrawiam i życzę Zdrówka <br />
-                Link do zadań:
-                <a
-                    href="https://kepke6.wixsite.com/kwarantanna/klas-6"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    Link
-                </a>
+                <LinkButton
+                    link="https://kepke6.wixsite.com/kwarantanna/klas-6"
+                    name="Otwórz"
+                ></LinkButton>
             </Lesson>
         </div>
     );
