@@ -1,0 +1,16 @@
+.link-button:link,
+.link-button:visited {
+    background-color: goldenrod;
+    color: white;
+    padding: 8px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.link-button:hover,
+.link-button:active {
+    background-color: darkgoldenrod;
+}

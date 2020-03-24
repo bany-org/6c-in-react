@@ -4,6 +4,8 @@ import Lesson from '../Lesson/Lesson';
 import Info from '../Info/Info';
 import Header from '../Header/Header';
 
+import LinkButton from '../LinkButton/LinkButton';
+
 function Angielski() {
     return (
         <div className="content">
@@ -17,30 +19,19 @@ function Angielski() {
                 na adres ppytliksp5zabrze@gmail.com <br />
                 A dzisiaj jeszcze kilka powtórek <br />
                 proszę obejrzeć filmik: <br />
-                <a
-                    href="https://www.youtube.com/watch?v=jppW4UByWOc"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    Link 1
-                </a>
-                <br />a następnie wykonać ćwiczenia: <br />
-                <a
-                    href="https://anglobook.pl/czas/present-simple/cwiczenia-present-simple/present-simple-cwiczenie-6"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    Link 2
-                </a>
-                <br />
-                <a
-                    href="https://anglobook.pl/czas/present-continuous/cwiczenia-present-continuous/present-continuous-test-no-1"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    Link 3
-                </a>
-                <br />
+                <LinkButton
+                    link="https://www.youtube.com/watch?v=jppW4UByWOc"
+                    name="Film"
+                ></LinkButton>
+                a następnie wykonać ćwiczenia:
+                <LinkButton
+                    link="https://anglobook.pl/czas/present-simple/cwiczenia-present-simple/present-simple-cwiczenie-6"
+                    name="Zadanie 1"
+                ></LinkButton>
+                <LinkButton
+                    link="https://anglobook.pl/czas/present-continuous/cwiczenia-present-continuous/present-continuous-test-no-1"
+                    name="Zadanie 2"
+                ></LinkButton>
                 Pozdrawiam Patrycja Pytlik
             </Lesson>
             <Lesson date="20.03.2020">
@@ -66,9 +57,10 @@ function Angielski() {
                 A zatem zadania na dziś! <br />
                 Temat lekcji: A journey around the USA. <br />
                 Cel lekcji: rozumiem tekst o Stanach Zjednoczonych Ameryki.{' '}
-                <br />
-                <a href="https://www.youtube.com/watch?v=98H5AN_vfOY">Link</a>
-                <br />
+                <LinkButton
+                    link="https://www.youtube.com/watch?v=98H5AN_vfOY"
+                    name="Film"
+                ></LinkButton>
                 po obejrzeniu filmiku przechodzimy do podręcznika na str. 50 i
                 51. <br />
                 Proszę, aby uczniowie przeczytali tekst ze str. 50 i do zeszytu
@@ -88,28 +80,19 @@ function Angielski() {
                 nową głoskę <br />
                 A. Obejrzyj film Arleny Witt z kanału Po cudzemu na YouTube:
                 World, birthday, girl - jak nie połamać języka? | Po Cudzemu #25{' '}
-                <br />
-                <a
-                    href="https://www.youtube.com/watch?v=3bDl8ageSzc&list=PLJ-cNWgEeSubipvRKLhNB5r2WEtm4254e&index=25"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    LINK
-                </a>
-                <br />
+                <LinkButton
+                    link="https://www.youtube.com/watch?v=3bDl8ageSzc&list=PLJ-cNWgEeSubipvRKLhNB5r2WEtm4254e&index=25"
+                    name="Film"
+                ></LinkButton>
                 Twój cel: naucz się wymawiać poprawnie słowa: birthday, world,
                 word oraz girl (po brytyjsku LUB amerykańsku). Poćwicz w domu
                 omawianą głoskę. <br />
                 B. Otwórz link z ćwiczeniami do zadań z was/ were, wasn't/
-                weren't i na końcu sprawdź się sam! <br />
-                <a
-                    href="https://www.ang.pl/cwiczenia/799/past-simple-pytania-przeczenia"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    Link
-                </a>
-                <br />
+                weren't i na końcu sprawdź się sam!
+                <LinkButton
+                    link="https://www.ang.pl/cwiczenia/799/past-simple-pytania-przeczenia"
+                    name="Zadanie"
+                ></LinkButton>
                 Good luck! Pozdrowienia i dużo zdrowia dla całej rodziny,
                 Patrycja Pytlik <br />
             </Lesson>
