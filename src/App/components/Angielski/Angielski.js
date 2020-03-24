@@ -8,7 +8,41 @@ function Angielski() {
     return (
         <div className="content">
             <Header subject="język angielski" teacher="Patrycja Pytlik" />
-
+            <Lesson date="24.03.2020">
+                Dzień dobry Państwu, <br />
+                od czwartku nasze zdalne nauczanie powinno zawierać nowy
+                materiał. Na pewno nauka języka w ten sposób nie będzie prosta,
+                ale mam nadzieję, że wspólnymi siłami damy radę. W razie
+                jakichkolwiek pytań, bądź wątpliwości proszę o kontakt mailowy
+                na adres ppytliksp5zabrze@gmail.com <br />
+                A dzisiaj jeszcze kilka powtórek <br />
+                proszę obejrzeć filmik: <br />
+                <a
+                    href="https://www.youtube.com/watch?v=jppW4UByWOc"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    Link 1
+                </a>
+                <br />a następnie wykonać ćwiczenia: <br />
+                <a
+                    href="https://anglobook.pl/czas/present-simple/cwiczenia-present-simple/present-simple-cwiczenie-6"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    Link 2
+                </a>
+                <br />
+                <a
+                    href="https://anglobook.pl/czas/present-continuous/cwiczenia-present-continuous/present-continuous-test-no-1"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    Link 3
+                </a>
+                <br />
+                Pozdrawiam Patrycja Pytlik
+            </Lesson>
             <Lesson date="20.03.2020">
                 Dzień dobry Państwu, <br />
                 oto dzisiejsza lekcja: <br />
