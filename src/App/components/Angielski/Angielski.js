@@ -10,6 +10,17 @@ function Angielski() {
     return (
         <div className="content">
             <Header subject="język angielski" teacher="Patrycja Pytlik" />
+            <Lesson date="25.03.2020">
+                Dzień dobry Państwu, dzisiejsza lekcja: <br />
+                Temat: getting around Poland. <br />
+                Z podręcznika str. 64 i 65 Proszę zrobić zad. 2/64 Dopasować
+                zdania do zdjęć. Wytłuszczone fragmenty zdań proszę przepisać do
+                zeszytu i przetłumaczyć na j. polski (tłumaczenia wyszukać w
+                słownikach lub w internecie). <br />
+                Przeczytać tekst 3/64 i odpowiedzieć na pytania 4/65 do zeszytu.
+                Pytań nie przepisujemy. <br />
+                Pozdrawiam Patrycja Pytlik
+            </Lesson>
             <Lesson date="24.03.2020">
                 Dzień dobry Państwu, <br />
                 od czwartku nasze zdalne nauczanie powinno zawierać nowy
