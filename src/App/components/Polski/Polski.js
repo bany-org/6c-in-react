@@ -17,6 +17,12 @@ function Polski() {
         <div className="content">
             <ScrollToTopOnMount />
             <Header subject="język polski" teacher="Bożena Nowakowska" />
+            <Info date="25.03.2020">
+                Dzień dobry, Dziękuję za przesłane prace. Oceny, jeśli będzie
+                można, wpiszę do e-dziennika. Jeśli jeszcze ktoś nie przesłał
+                dedykacji, proszę przesłać w dokumencie tekstowym Open Office.
+                Pozdrawiam.
+            </Info>
             <Lesson date="23.03.2020">
                 Dzień dobry, Mam nadzieję, że bez problemu poradziliście sobie z
                 krótką formą wypowiedzi, jaką jest dedykacja. Myślę, że

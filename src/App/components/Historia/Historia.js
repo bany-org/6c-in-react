@@ -8,6 +8,24 @@ const Historia = () => {
     return (
         <div className="content">
             <Header subject="historia" teacher="JOLANTA HUŃCZAK" />
+            <Lesson date="25.03.2020">
+                CZEŚĆ DZIECIAKI. BARDZO SIĘ ZA WAMI STĘSKNIŁAM I W RAMACH TEJ
+                TĘSKNOTY POSTANOWIŁAM WAS PROSIĆ O PRZECZYTANIE DWÓCH KOLEJNYCH
+                LEKCJI, TO JEST LEKCJA 29 " Reformy stanisławowskie " ORAZ
+                LEKCJA 30 " Sejm Wielki i Konstytucja 3 maja " ( dz.V ). WIEM,
+                ŻE TO WIELE ALE W TAK TRUDNYCH CZASACH MUSZĘ WAS PROSIĆ O TRUDNE
+                RZECZY. SWOJĄ WIEDZĘ MOŻECIE UZUPEŁNIĆ OGLĄDAJĄC FILMY NP. NA
+                YOU TUBE - Historia pod ostrym kątem " Sejm Wielki i Konstytucja
+                3 maja " ( czas ok. 5 min. ) lub wiele innych, sami wiecie
+                najlepiej. MOŻECIE TEŻ OGLĄDAĆ PROGRAMY TELEWIZYJNE, CZYTAĆ
+                KSIĄŻKI I CZASOPISMA LUB ZWYCZAJNIE SŁUCHAJĄC OPOWIEŚCI WASZYCH
+                RODZIN. JEŻELI BĘDZIECIE MIELI JAKIEŚ PYTANIA CZY PROBLEMY
+                PROSZĘ PISZCIE DO MNIE NA ADRES: jhunczaksp5zabrze@gmail.com
+                SERDECZNIE WAS POZDRAWIAM.................I CZEKAJCIE NA KOLEJNE
+                WIADOMOŚCI Z LINII FRONTU..............TU WAM MACHAM ALE TEGO
+                NIE WIDZICIE........DO NAPISANIA WKRÓTCE.............JOLANTA
+                HUŃCZAK
+            </Lesson>
             <Info>
                 WITAM WSZYSTKICH SERDECZNIE. DOSTAŁAM DZIŚ INFORMACJĘ OD PANI
                 MARKOWSKIEJ, ŻE DZISIAJ TJ. 19 MARCA O GODZ.12.00 ODBĘDZIE SIĘ
