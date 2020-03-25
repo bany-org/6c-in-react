@@ -1,5 +1,6 @@
 import React from 'react';
 
+import Info from '../Info/Info';
 import LinkButton from '../LinkButton/LinkButton';
 
 function Home() {
@@ -9,13 +10,9 @@ function Home() {
                 link="https://bany-org.github.io/klasa6c/index.html"
                 name="Poprzednia wersja strony"
             ></LinkButton>
-            {/* <a
-                href="https://bany-org.github.io/klasa6c/index.html"
-                target="_blank"
-                rel="noopener noreferrer"
-            >
-                Poprzednia werska strony
-            </a> */}
+            <Info>
+                <b>BARDZO PROSZĘ CODZIENNIE ODŚWIEŻAĆ STRONĘ!</b>
+            </Info>
         </>
     );
 }
