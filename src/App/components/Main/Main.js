@@ -59,7 +59,7 @@ const Main = () => {
                 <Route path="/wf">
                     <Wf />
                 </Route>
-                <Route path="2a">
+                <Route path="/klasa2a">
                     <Klasa2a />
                 </Route>
                 <Redirect to="/"></Redirect>
