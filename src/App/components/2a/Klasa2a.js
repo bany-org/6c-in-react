@@ -112,6 +112,17 @@ function Klasa2a() {
                 ></LinkButton>
                 Pozdrawiam Anna Kubicz - nauczyciel świetlicy
             </Info>
+            <Info date="24.03.2020">
+                Welcome pupils <br />
+                Proszę odtworzyć materiał w formie audio video: Level 2 - poziom
+                2, Picture dictionary - słownik obrazkowy, Unit 4 b - dział/
+                jednostka - 4 b. Cel lekcji: potrafię poprawnie wymówić i
+                zapisać liczby 10 - 100 <br />
+                Dzisiaj powtarzamy wymowę i pisownię liczb: 10, 20, 30, 40, 50,
+                60, 70, 80, 90, 100 Proszę uzupełniać braki w zeszycie ćwiczeń:
+                Unit 4 <br />
+                Good luck - powodzenia nauczycielka j. nag. Małgorzata Wolańska
+            </Info>
             <Info date="">
                 Niniejszym podaję link do uczenia się języka angielskiego przy
                 wykorzystaniu podręcznika Treetops dla odpowiedniego poziomu
