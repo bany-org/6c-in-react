@@ -8,26 +8,6 @@ const Historia = () => {
     return (
         <div className="content">
             <Header subject="historia" teacher="JOLANTA HUŃCZAK" />
-            <Lesson date="26.03.2020">
-                Dzień dobry, Temat: Dawno temu,gdy ryto znaki w kamieniu.
-                Poznajemy historię książki. <br />
-                1. Przeczytaj tekst z podręcznika -strona 230-232 <br />
-                2.Wykonaj pisemnie w zeszycie ćwiczenie 6, strona 233
-                -podręcznik - jeśli chcesz możesz narysować ilustrację ze strony
-                233 z podręcznika. <br />
-                3. Zadanie dla chętnych - Napisz list nieoficjalny do kolegi lub
-                koleżanki, w którym zachęcisz do przeczytania Twojej ulubionej
-                książki. Przed przystąpieniem przypomnij sobie kompozycję listu,
-                pisownię zwrotów grzecznościowych. Skorzystaj ze słowniczka
-                ortograficznego, jeśli masz wątpliwości dotyczące pisowni
-                wyrazów. Pamiętaj o poparciu argumentów przykładami z lektury.
-                <br />
-                Prace - około 150 -200 znaków (słów) Prace proszę przesyłać na
-                mój adres mailowy służbowy do 02.04.2020 - czwartek. <br />
-                Pozdrawiam. Spokojnie pracujcie. Od następnego tygodnia
-                chciałabym rozpocząć gramatykę. Jeszcze raz serdecznie
-                pozdrawiam. Bożena Nowakowska.
-            </Lesson>
             <Lesson date="25.03.2020">
                 CZEŚĆ DZIECIAKI. BARDZO SIĘ ZA WAMI STĘSKNIŁAM I W RAMACH TEJ
                 TĘSKNOTY POSTANOWIŁAM WAS PROSIĆ O PRZECZYTANIE DWÓCH KOLEJNYCH
