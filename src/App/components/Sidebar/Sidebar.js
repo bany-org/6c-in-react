@@ -45,6 +45,10 @@ const config = [
     {
         path: '/wf',
         name: 'Wf'
+    },
+    {
+        path: '/klasa2a',
+        name: 'Klasa 2a'
     }
 ];
 
