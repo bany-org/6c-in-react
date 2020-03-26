@@ -14,6 +14,7 @@ import Muzyka from '../Muzyka/Muzyka';
 import Biologia from '../Biologia/Biologia';
 import Plastyka from '../Plastyka/Plastyka';
 import Wf from '../Wf/Wf';
+import Klasa2a from '../2a/Klasa2a';
 
 import './Main.css';
 
@@ -57,6 +58,9 @@ const Main = () => {
                 </Route>
                 <Route path="/wf">
                     <Wf />
+                </Route>
+                <Route path="2a">
+                    <Klasa2a />
                 </Route>
                 <Redirect to="/"></Redirect>
             </Switch>
