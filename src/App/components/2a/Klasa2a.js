@@ -9,7 +9,7 @@ import LinkButton from '../LinkButton/LinkButton';
 function Klasa2a() {
     return (
         <div className="content">
-            <Header subject="język angielski" teacher="Barbara Biskup" />
+            <Header subject="zadania" teacher="Barbara Biskup" />
 
             <Lesson date="26.03.2020">
                 Witam! Wszyscy jesteśmy w nowej i trudnej dla nas sytuacji z
