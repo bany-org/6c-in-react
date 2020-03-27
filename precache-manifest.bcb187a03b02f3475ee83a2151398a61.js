@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "018b17a99e814c2b0eeaf1d8b79f1cb6",
+    "revision": "fd984ce925b483199c0e861b83137b96",
     "url": "/6c-in-react/index.html"
   },
   {
-    "revision": "c895f7aa98e658c52326",
+    "revision": "8884810a6c645ef8e278",
     "url": "/6c-in-react/static/css/main.455dc742.chunk.css"
   },
   {
-    "revision": "59f6b8edfaa40d38e90c",
-    "url": "/6c-in-react/static/js/2.a4171278.chunk.js"
+    "revision": "07a480bbdce006faef51",
+    "url": "/6c-in-react/static/js/2.e5abffb0.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/6c-in-react/static/js/2.a4171278.chunk.js.LICENSE.txt"
+    "url": "/6c-in-react/static/js/2.e5abffb0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c895f7aa98e658c52326",
-    "url": "/6c-in-react/static/js/main.b28b22d9.chunk.js"
+    "revision": "8884810a6c645ef8e278",
+    "url": "/6c-in-react/static/js/main.45b46e6a.chunk.js"
   },
   {
     "revision": "43017a2c323b29e65b25",
@@ -42,5 +42,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f0a308a30a905bbdca4acd36b4ae2f86",
     "url": "/6c-in-react/static/media/zad4.f0a308a3.pdf"
+  },
+  {
+    "revision": "886e92d1f873d3ee8a73485a82de101f",
+    "url": "/6c-in-react/static/media/zad5.886e92d1.pdf"
   }
 ]);
