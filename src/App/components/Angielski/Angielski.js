@@ -10,6 +10,43 @@ function Angielski() {
     return (
         <div className="content">
             <Header subject="język angielski" teacher="Patrycja Pytlik" />
+            <Info date="27.03.2020">
+                Dzień dobry, <br />
+                wszystkie nadesłane prace z zadania dodatkowego 4/51 zostały
+                sprawdzone. Za poprawnie wykonaną pracę z małą ilością błędów
+                wstawiłam bdb, natomiast tam gdzie błędów było więcej
+                powstawiałam plusy (+). Były również prace bez oceny i bez
+                plusa, tam gdzie błędów było naprawdę sporo. Oceny są już
+                wpisane w edzienniku. O plusach powiadomię każdego osobiście
+                przez e -dziennik. Pozdrawiam Patrycja Pytlik
+            </Info>
+            <Lesson date="27.03.2020">
+                Dzień dobry Państwu, <br />
+                podręczniki Państwa dzieci mają możliwość wykonywania tak
+                zwanych online homework. W ćwiczeniach jest podany kod, który
+                umożliwi zalogowanie się na odpowiednią stronę. Nie jest to zbyt
+                skomplikowane więc może spróbujemy? Strona wydawnictwa to
+                Pearson, a zakładka to My English Lab (tu będziecie Państwo
+                poproszeni o wpisanie kodu z ćwiczeń na wewnętrznej okładce,
+                oraz później identyfikatora kursu 9JPF-TAYU). Będziecie Państwo
+                poprowadzeni krok po kroku jak należy to zrobić. Proszę wejść na
+                stronę
+                <LinkButton link="https://english-dashboard.pearson.com/register">
+                    Link
+                </LinkButton>
+                kliknąć Create a child account. Wszystko jest po angielsku, ale
+                na pewno Państwo lub Państwa dzieci dacie radę. Będziecie
+                poproszeniu o stworzenie swojego konta. <br />
+                Zostawiam Państwa z tymi informacjami. Zaczniemy pracę tymi
+                narzędziami dopiero jak wszyscy się zalogują, a do tego czasu
+                lekcje będą wysyłane jak do tej pory. Dla mnie to też jest
+                nowość więc wszyscy będziemy uczyć się nowych narzędzi. W razie
+                pytań proszę o kontakt na maila ppytliksp5zabrze@gmail.com{' '}
+                <br />
+                Będę również próbowała sama zalogować uczniów, wtedy otrzymacie
+                Państwo maila ze strony Pearsona. <br />
+                Pozdrawiam serdecznie Patrycja Pytlik
+            </Lesson>
             <Lesson date="25.03.2020">
                 Dzień dobry Państwu, dzisiejsza lekcja: <br />
                 Temat: getting around Poland. <br />

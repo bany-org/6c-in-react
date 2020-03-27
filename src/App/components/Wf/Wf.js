@@ -8,6 +8,28 @@ const Wf = () => {
     return (
         <div className="content">
             <Header subject="wf" teacher="Janusz Zieliński" />
+            <Lesson date="27.03.2020">
+                Witam Państwa Mija już półtora tygodnia naszej nauki przez
+                internet - uczymy się wszyscy Państwo, dzieci i my. Mam
+                nadzieję, że wspólnie damy radę, a dzieci odniosą z nauczania
+                online korzyści i opanują to co znajduje się w podstawie
+                programowej. Będę się starał przesyłać ciekawe ćwiczenia,
+                proponować ciekawe metody, rozbudzić zainteresowania sportem i
+                zdrowym stylem życia. Ewentualne prace teoretyczne, bardzo
+                proszę zachować w domu, bo będą potrzebne do prezentacji i
+                eksponowania w szkole, kiedy już szczęśliwie do niej wrócimy.
+                Nowe zadania będę przesyłał na każdej pierwszej lekcji wf-u na
+                początku każdego tygodnia. Na prace teoretyczne dzieci będą
+                miały 2 tygodnie czasu. Chciałbym jednak prosić o przesyłanie
+                zdjęć lub krótkich filmików na bieżąco, bo nie wymagają one
+                wiele pracy. jako pierwsze zadanie proszę o przesłanie mi
+                zdjęcia lub zdjęć z ćwiczeń zadanych ostatnio. Jestem bardzo
+                ciekawy jak dzieci radzą sobie. Proszę o przesłanie ich
+                najpóźniej do Świąt na mój adres e-mail
+                jzielinskisp5zabrze@gmail.com. Wszystkie zdjęcia zostaną
+                ocenione z aktywności na lekcji wf-u. serdecznie pozdrawiam
+                Janusz Zieliński
+            </Lesson>
             <Lesson date="26.03.2020">
                 Szanowni Rodzice, drodzy Uczniowie Rozpoczynamy zdalne
                 nauczanie. tak jak w ubiegłym tygodniu będę proponował zestawy
