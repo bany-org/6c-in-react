@@ -5,7 +5,7 @@ import Header from '../Header/Header';
 import Info from '../Info/Info';
 import LinkButton from '../LinkButton/LinkButton';
 
-import karta1 from './karta1.pdf';
+import karta1 from './karta1.jpg';
 
 const Biologia = () => {
     return (
