@@ -10,7 +10,22 @@ function Klasa2a() {
     return (
         <div className="content">
             <Header subject="zadania" teacher="Barbara Biskup" />
-
+            <Lesson date="27.03.2020">
+                Witam! Lekcje na dzisiaj : j.polski w ćwiczeniach należy wykonać
+                str. 58, 59, 60 i 61. Matematyka : korzystając z podręcznika
+                str.28-29, 32-33 i 36-37 należy wykonać ćwiczenia matematyczne
+                na str. 32 i 36. Proszę, aby do poniedziałku na adres e-mail :
+                bbiskupsp5zabrze@gmail.com wysłać mi zdjęcie z zeszytu do
+                j.polskiego stronę, na której jest Praca w domu i data
+                26.03.2020 ( ułożone i napisane 10 zdań) oraz zdjęcie pracy
+                plastycznej „Oznaki wiosny w przyrodzie”. Przypominam o
+                odbieraniu książek ze szkoły od 9:00 do 15:00 dziś i w
+                poniedziałek. Proszę, aby sprawdzać wiadomości w dzienniku
+                elektronicznym oraz na e-mailach, bo tam będę wysyłała
+                wiadomości z załącznikami. Życzę moim uczniom miłej pracy i jak
+                najszybszego spotkania na normalnych lekcjach w szkole.
+                Wszystkich serdecznie pozdrawiam! Barbara Biskup
+            </Lesson>
             <Lesson date="26.03.2020">
                 Witam! Wszyscy jesteśmy w nowej i trudnej dla nas sytuacji z
                 powodu epidemii. Musimy pozostawać w domu i jedynym wyjściem
