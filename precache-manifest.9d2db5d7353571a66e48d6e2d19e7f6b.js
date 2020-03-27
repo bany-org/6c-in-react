@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d044e5e9367fe6d9ad8c9d9ec5929779",
+    "revision": "51597136d107edd4ba107e5af9130911",
     "url": "/6c-in-react/index.html"
   },
   {
-    "revision": "e7af2f75892ce099acb1",
+    "revision": "53e188806642a07263be",
     "url": "/6c-in-react/static/css/main.d2734347.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/6c-in-react/static/js/2.a4171278.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e7af2f75892ce099acb1",
-    "url": "/6c-in-react/static/js/main.8f40c41b.chunk.js"
+    "revision": "53e188806642a07263be",
+    "url": "/6c-in-react/static/js/main.57afc23e.chunk.js"
   },
   {
     "revision": "43017a2c323b29e65b25",
     "url": "/6c-in-react/static/js/runtime-main.ee43c9c3.js"
   },
   {
-    "revision": "f91dfb2d24d3b201d0f5508dc34b0924",
-    "url": "/6c-in-react/static/media/karta1.f91dfb2d.pdf"
+    "revision": "c445543c8dbaa0eaac3eb1bbbb56ad3b",
+    "url": "/6c-in-react/static/media/karta1.c445543c.jpg"
   },
   {
     "revision": "318eff2f4c51c2aee290dce3f53d8ef5",
