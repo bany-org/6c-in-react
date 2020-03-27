@@ -1,0 +1,24 @@
+.App {
+    display: flex;
+    padding: 40px;
+    background-color: #333c4f;
+    height: calc(100vh - 80px);
+}
+
+.content {
+    padding: 30px;
+}
+
+@media (max-width: 500px) {
+    .App {
+        flex-direction: column;
+        height: 100%;
+        width: 100%;
+        padding: 0;
+        position: absolute;
+    }
+
+    .content {
+        padding: 5px;
+    }
+}

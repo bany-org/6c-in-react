@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/6c-in-react/static/css/main.d2734347.chunk.css",
+    "main.js": "/6c-in-react/static/js/main.4cf215ac.chunk.js",
+    "main.js.map": "/6c-in-react/static/js/main.4cf215ac.chunk.js.map",
+    "runtime-main.js": "/6c-in-react/static/js/runtime-main.ee43c9c3.js",
+    "runtime-main.js.map": "/6c-in-react/static/js/runtime-main.ee43c9c3.js.map",
+    "static/js/2.e495a003.chunk.js": "/6c-in-react/static/js/2.e495a003.chunk.js",
+    "static/js/2.e495a003.chunk.js.map": "/6c-in-react/static/js/2.e495a003.chunk.js.map",
+    "index.html": "/6c-in-react/index.html",
+    "precache-manifest.5a31a4498201bddb758f7f355c0e05df.js": "/6c-in-react/precache-manifest.5a31a4498201bddb758f7f355c0e05df.js",
+    "service-worker.js": "/6c-in-react/service-worker.js",
+    "static/css/main.d2734347.chunk.css.map": "/6c-in-react/static/css/main.d2734347.chunk.css.map",
+    "static/js/2.e495a003.chunk.js.LICENSE.txt": "/6c-in-react/static/js/2.e495a003.chunk.js.LICENSE.txt",
+    "static/media/zad1.pdf": "/6c-in-react/static/media/zad1.318eff2f.pdf",
+    "static/media/zad2.pdf": "/6c-in-react/static/media/zad2.273857e3.pdf",
+    "static/media/zad3.pdf": "/6c-in-react/static/media/zad3.896f6a77.pdf",
+    "static/media/zad4.pdf": "/6c-in-react/static/media/zad4.f0a308a3.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee43c9c3.js",
+    "static/js/2.e495a003.chunk.js",
+    "static/css/main.d2734347.chunk.css",
+    "static/js/main.4cf215ac.chunk.js"
+  ]
+}
