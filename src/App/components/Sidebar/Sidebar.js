@@ -31,6 +31,10 @@ const config = [
         name: 'Historia'
     },
     {
+        path: '/geografia',
+        name: 'Geografia'
+    },
+    {
         path: '/muzyka',
         name: 'Muzyka'
     },

@@ -7,6 +7,13 @@ const Plastyka = () => {
     return (
         <div className="content">
             <Header subject="plastyka" teacher="Sabina Borner" />
+            <Lesson date="30.03.2020">
+                Drodzy uczniowie, proszę zapisać temat w zeszycie do plastyki ,,
+                Moda i proporcje sylwetki na przykładzie barokowej i rokokowej
+                mody". Następnie przeczytać informacje z podręcznika ze strony
+                94-103 oraz w paru zdaniach opisać styl ubierania się w tamtych
+                czasach.
+            </Lesson>
             <Lesson date="26.03.2020">
                 Drodzy uczniowie, Proszę zapisać temat w zeszycie do plastyki
                 ,,Jestem projektantem - mój styl". <br />
