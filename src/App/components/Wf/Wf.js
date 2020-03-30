@@ -8,6 +8,19 @@ const Wf = () => {
     return (
         <div className="content">
             <Header subject="wf" teacher="Janusz Zieliński" />
+            <Lesson date="30.03.2020">
+                Dzień dobry Rozpoczynamy tydzień. Mam nadzieję, że wszyscy
+                jesteście zdrowi i w dobrym humorze. Dobre samopoczucie poprawia
+                ruch dlatego proszę o systematyczne ćwiczenia. Jeśli poprawi się
+                pogoda można otworzyć okno lub wyjść na balkon. W dniu
+                dzisiejszym wystawię zaległe oceny za systematyczność w lutym.
+                Przesłane ćwiczenia wykonujcie przez cały tydzień w czasie tej
+                aktywności poproście o zrobienie Wam zdjęcia lub zdjęć i
+                prześlijcie je na mój adres e-mail
+                jzielinskisp5zabrze@gmail.com. Zdjęcia będą ocenione.
+                Przypominam o terminie nadsyłania zdjęć. pozdrawiam Janusz
+                Zieliński
+            </Lesson>
             <Lesson date="27.03.2020">
                 Witam Państwa Mija już półtora tygodnia naszej nauki przez
                 internet - uczymy się wszyscy Państwo, dzieci i my. Mam

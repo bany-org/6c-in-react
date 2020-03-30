@@ -17,6 +17,54 @@ function Polski() {
         <div className="content">
             <ScrollToTopOnMount />
             <Header subject="język polski" teacher="Bożena Nowakowska" />
+            <Lesson date="30.03.2020">
+                Dzień dobry, dzisiaj wracamy do gramatyki. Temat: Zdania złożone
+                współrzędnie i podrzędnie. Cele: - wiemy, czym różni się zdanie
+                pojedyncze od złożonego - wiemy, czym różni się związek
+                wspólrzędny od podrzędnego - wiemy, co to jest zdanie złożone
+                współrzędnie i podrzędnie - umiemy wymienić spójniki
+                charakterystyczne dla zdań złożonych wspólrzędnie i podrzędnie -
+                wiemy przed jakimi spójnikami stawiamy przecinek - umiemy
+                wykonać wykresy zdań złożonych Z klasy piątej pamiętacie, ze
+                zdanie złożone ma 2 orzeczenia, czyli składa się z dwóch zdań
+                pojedynczych- nazywanych zdaniami składowymi. Pomiędzy tymi
+                zdaniami może zachodzić dwa rodzaje połączeń. Podobnie jak
+                między dwoma wyrazami a. związek wspólrzędny - żaden z wyrazów
+                nie określa drugiego, są samodzielne - brat i siostra- słowo
+                brat nie określa wyrazu siostra i wyraz siostra nie określa
+                wyrazu brat b.związek podrzędny - wyraz nadrzędny jest określany
+                przez wyraz podrzędny mądre dziecko - wyraz nadrzędny dziecko
+                jest określany przez wyraz podrzędny, który określa jakie to
+                dziecko jest o tych związkach mówiliśmy w klasie piątej Takie
+                same związki istnieją między dwoma zdaniami składowymi w zdaniu
+                złożonym: a.zdania złożone współrzędnie- to takie dwa zdania,
+                która są niezależne od siebie, jedno nie określa drugiego, mogą
+                istnieć samodzielnie - Idę i myślę. Pierwsze zdanie -Idę nie
+                określa zdania drugiego Myślę. Są na tym samym poziomie, mogą
+                istnieć niezależnie b.zdania złożone podrzędnie - zdanie
+                nadrzędne( na wyższym poziomie ) jest określane przez zdanie
+                podrzędne (na niższym poziomie) - Dowiedziałem się, że jadę na
+                kolonie. Zdanie nadrzędne -Dowiedziałem się - jest określane
+                przez zdanie podrzędne. Stawiamy pytanie czego się dowiedziałem
+                - że jadę na kolonie- zdanie podrzędne. Kochani, Jak
+                najprostszym sposobem starałam się wytłumaczyć, tak jak umiałam
+                ale musicie jeszcze raz albo dwa przeczytać wiadomości z
+                podręcznika i starać się zrozumieć. 1. Przeczytaj wiadomości z
+                podręcznika dotyczące zdań złożonych i interpunkcji zdania
+                złożonego - strona139, 140, 142 2. Przepisz do zeszytu
+                definicje- możesz swoimi słowami- zdanie złożone wspólrzędnie,
+                podrzędnie, interpunkcja w zdaniach złożonych -strona 142 3.
+                Napisz w zeszycie ćwiczenie 11 strona 143 z podręcznika. 4.
+                Zrób, ile możesz i jakie chcesz ćwiczenia z zeszytu ćwiczeń od
+                strony 132 do 139 Dzisiejszy materiał jest na cały tydzień.
+                Zachęcam do robienia ćwiczeń, ale pamiętajcie najważniejsze jest
+                Wasze zdrowie i dobre samopoczucie. Wiem, że jesteście
+                odpowiedzialni, pilni, systematyczni i chętni do nauki i pracy.
+                Świadczą o tym nadsyłane prace, za które dziękuję. Oceny już się
+                pojawiły i będą pojawiać się w e- dzienniku. Spokojnie
+                pracujcie. Cały tydzień przed Wami. Pozdrawiam cieplutko. Dużo
+                zdrowia. Bożena Nowakowska.
+            </Lesson>
             <Lesson date="26.03.2020">
                 Dzień dobry, Temat: Dawno temu,gdy ryto znaki w kamieniu.
                 Poznajemy historię książki. <br />

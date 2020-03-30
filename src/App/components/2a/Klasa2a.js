@@ -4,12 +4,63 @@ import Lesson from '../Lesson/Lesson';
 import Info from '../Info/Info';
 import Header from '../Header/Header';
 
+import spr1 from './spr1.pdf';
+
 import LinkButton from '../LinkButton/LinkButton';
 
 function Klasa2a() {
     return (
         <div className="content">
             <Header subject="zadania" teacher="Barbara Biskup" />
+            <Info date="30.03.2020">
+                Good morning pupils <br />
+                Cel lekcji: rozpoznawanie, wymawianie i zapisywanie nazw
+                umeblowania sypialni <br />
+                Proszę otworzyć podręcznik na str. 40. Look at page 40. Dzisiaj
+                Pipa pokazuje swoim przyjaciołom swoją sypialnię, a w niej różne
+                meble. Today Pipa is showing her friends bedroom and furniture.
+                Oto one: 1. a bookshelf - półka na książki; 2. a wardrobe -
+                szafa; 3. a lamp - lampa, 4. a bed - łóżko; 5. draws - szafka;
+                6. a rug - dywanik, 7. a chair - krzesło; 8. a desk - biurko. 2.
+                Proszę otworzyć zeszyt ćwiczeń na str. 39 i podpisać ilustracje.
+                Te ilustracje to fragmenty mebli. Please, open the workbook;
+                page 39 and write the names of the furniture under the pictures
+                which are only the pieces of the furniture. 3. Jeżeli dziecko
+                nie ma w domu zeszytu ćwiczeń, wobec tego proszę, aby w zeszycie
+                zapisać: 'Lesson 5. 1; Topic: My bedroom. Proszę narysować w
+                zeszycie meble, które są w książce na str. 40. Ważna informacja:
+                w tym tygodniu prześlę Państwu oryginalne materiały do
+                odsłuchania, które są bardzo ważne dla dziecka, aby prawidłowo
+                wymawiało nowo poznawane słówka. Ponadto na stronie British
+                Council LearnEnglish Kids są materiały, które śmiało można
+                wykorzystać do nauki języka angielskiego. Gorąco polecam tę
+                stronę. Dziecko uczy się angielskiego głównie przez zabawę.
+                <br />
+                Good luck - powodzenia. nauczycielka j. ang Małgorzata Wolańska
+            </Info>
+            <Lesson date="30.03.2020">
+                Witam! Lekcje na dzisiaj: j.polski przeczytać tekst podręcznik
+                str.32-33 ( ćwiczyć głośne czytanie), wykonać ćwiczenia na
+                str.62-63, w zeszycie do j.polskiego napisać Praca w domu i data
+                30.03.2020r. Od nowej linijki przepisać z podręcznika str.33
+                pytanie 1 i 2, pod każdym pytaniem napisać odpowiedź całym
+                zdaniem. Matematyka podręcznik str.35 zad.2 należy w zeszycie
+                napisać Praca w domu i datę 30.03.2020r. i przepisać do zeszytu
+                działania z zad.2 obliczyć oraz obok każdego działania napisać
+                działanie na mnożenia jako sprawdzenie. Proszę sprawdzić swoją
+                pocztę na e-mailu bo tam wyślę do wykonania przez dzieci
+                sprawdzian z mnożeniem i dzieleniem. Oglądajcie lekcje w
+                telewizji dla kl.II w TVP Rozrywka od 8:00 do 9:00 i od 12:30 do
+                13:30 Pozdrawiam wszystkich! <br />
+                Witam! Wysyłam sprawdzian z matematyki, proszę aby dzieci
+                wykonały zadania. W miejscach kropek należy zmazać i wpisać
+                wyniki, działania i odpowiedzi. Proszę o odesłanie sprawdzianu
+                do środy (01.04.20r.) Życzę powodzenia! Pozdrawiam! <br />
+                Jeżeli ktoś ma jakiś problem z pisaniem sprawdzianu na
+                przysłanym dokumencie, to można wszystkie zadania napisać na
+                kartce, rozwiązać i wysłać mi zdjęcie. Barbara Biskup
+                <LinkButton link={spr1} name="Prawdzian"></LinkButton>
+            </Lesson>
             <Lesson date="27.03.2020">
                 Witam! Lekcje na dzisiaj : j.polski w ćwiczeniach należy wykonać
                 str. 58, 59, 60 i 61. Matematyka : korzystając z podręcznika

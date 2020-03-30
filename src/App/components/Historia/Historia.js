@@ -8,6 +8,15 @@ const Historia = () => {
     return (
         <div className="content">
             <Header subject="historia" teacher="JOLANTA HUŃCZAK" />
+            <Lesson date="30.03.2020">
+                CZEŚĆ DZIEWCZYNY I CHŁOPAKI. MAM NADZIEJĘ, ŻE JESTEŚCIE WSZYSCY
+                ZDROWI. DZISIEJSZY TEMAT LEKCJI, KTÓRY WPISZECIE SOBIE DO
+                ZESZYTU, BRZMI: PRACA Z TEKSTEM ŹRÓDŁOWYM. DO ZROBIENIA JEST
+                ĆWICZENIE 1 ZE STRONY 182 ORAZ ĆWICZENIE 1 ZE STRONY 187.
+                CZYTAJCIE BARDZO UWAŻNIE WSZYSTKIE TEKSTY ŹRÓDŁOWE , WIEM, ŻE TO
+                UWIELBIACIE.........HIHI. SERDECZNIE WAS POZDRAWIAM, TRZYMAJCIE
+                SIĘ ZDROWO - JOLANTA HUŃCZAK
+            </Lesson>
             <Lesson date="25.03.2020">
                 CZEŚĆ DZIECIAKI. BARDZO SIĘ ZA WAMI STĘSKNIŁAM I W RAMACH TEJ
                 TĘSKNOTY POSTANOWIŁAM WAS PROSIĆ O PRZECZYTANIE DWÓCH KOLEJNYCH

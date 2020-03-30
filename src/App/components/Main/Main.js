@@ -10,6 +10,7 @@ import Angielski from '../Angielski/Angielski';
 import Matematyka from '../Matematyka/Matematyka';
 import Informatyka from '../Informatyka/Informatyka';
 import Historia from '../Historia/Historia';
+import Geografia from '../Geografia/Geografia';
 import Muzyka from '../Muzyka/Muzyka';
 import Biologia from '../Biologia/Biologia';
 import Plastyka from '../Plastyka/Plastyka';
@@ -46,6 +47,9 @@ const Main = () => {
                 </Route>
                 <Route path="/historia">
                     <Historia />
+                </Route>
+                <Route path="/geografia">
+                    <Geografia />
                 </Route>
                 <Route path="/muzyka">
                     <Muzyka />
