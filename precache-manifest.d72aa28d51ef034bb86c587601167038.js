@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4801b17f885eaa361ef3e03b93bd735a",
+    "revision": "d6d3b637c86de2a23c93aae4e3006ce3",
     "url": "/6c-in-react/index.html"
   },
   {
-    "revision": "0fd47b742caf9f93a23c",
+    "revision": "d61232ea2514b4f9ae7b",
     "url": "/6c-in-react/static/css/main.455dc742.chunk.css"
   },
   {
-    "revision": "59ada308d6458b94d3e1",
-    "url": "/6c-in-react/static/js/2.5f160268.chunk.js"
+    "revision": "5444d9e5c598cb3022b9",
+    "url": "/6c-in-react/static/js/2.956e8b2f.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/6c-in-react/static/js/2.5f160268.chunk.js.LICENSE.txt"
+    "url": "/6c-in-react/static/js/2.956e8b2f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0fd47b742caf9f93a23c",
-    "url": "/6c-in-react/static/js/main.20cff7db.chunk.js"
+    "revision": "d61232ea2514b4f9ae7b",
+    "url": "/6c-in-react/static/js/main.06909eaa.chunk.js"
   },
   {
     "revision": "43017a2c323b29e65b25",
@@ -50,5 +50,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "886e92d1f873d3ee8a73485a82de101f",
     "url": "/6c-in-react/static/media/zad5.886e92d1.pdf"
+  },
+  {
+    "revision": "bc8d8fe3daad6889be03b1634fd6ef1a",
+    "url": "/6c-in-react/static/media/zad6.bc8d8fe3.pdf"
   }
 ]);
