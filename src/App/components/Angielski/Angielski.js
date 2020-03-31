@@ -10,6 +10,19 @@ function Angielski() {
     return (
         <div className="content">
             <Header subject="język angielski" teacher="Patrycja Pytlik" />
+            <Lesson date="31.03.2020">
+                Dzień dobry Państwu, <br />
+                dzisiejsza lekcja: Temat: The popcorn - historyjka.
+                <br />
+                podręcznik str.84 zaczynamy nowa lekcję z nowym materiałem. DAMY
+                RADĘ:) <br />
+                proszę zrobić zad. 1, 2/84 do zeszytu ( w słowniczku na st.89
+                wyszukać słów, których nie rozumiemy) <br />
+                Proszę również przyjrzeć się tabelce na str. 85 - pytania w
+                Present Perfect. Tym materiałem zajmiemy się jutro. <br />
+                Pozdrawiam i życzę zdrowia <br />
+                Patrycja Pytlik
+            </Lesson>
             <Info date="27.03.2020">
                 Dzień dobry, <br />
                 wszystkie nadesłane prace z zadania dodatkowego 4/51 zostały

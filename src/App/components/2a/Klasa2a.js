@@ -13,6 +13,14 @@ function Klasa2a() {
         <div className="content">
             <Header subject="zadania" teacher="Barbara Biskup" />
             <Info date="30.03.2020">
+                Niniejszym przesyłam materiały audio na nauki jęz. ang.
+                <LinkButton
+                    link="https://elt.oup.com/general_content/pl/dla_uczniow?cc=pl&selLanguage=pl"
+                    name="Link"
+                ></LinkButton>
+                Małgorzata Wolańska
+            </Info>
+            <Info date="30.03.2020">
                 Good morning pupils <br />
                 Cel lekcji: rozpoznawanie, wymawianie i zapisywanie nazw
                 umeblowania sypialni <br />

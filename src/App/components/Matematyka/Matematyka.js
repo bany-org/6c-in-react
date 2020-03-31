@@ -6,6 +6,7 @@ import pdf2 from './zad2.pdf';
 import pdf3 from './zad3.pdf';
 import pdf4 from './zad4.pdf';
 import pdf5 from './zad5.pdf';
+import pdf6 from './zad6.pdf';
 
 import Lesson from '../Lesson/Lesson';
 import Header from '../Header/Header';
@@ -15,6 +16,9 @@ const Matematyka = () => {
     return (
         <div className="content">
             <Header subject="matematyka" teacher="" />
+            <Lesson date="31.03.2020">
+                <LinkButton link={pdf6} name="Plik pdf"></LinkButton>
+            </Lesson>
             <Lesson date="27.03.2020">
                 <LinkButton link={pdf5} name="Plik pdf"></LinkButton>
             </Lesson>
