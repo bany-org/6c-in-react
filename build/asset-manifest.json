@@ -1,29 +1,30 @@
 {
   "files": {
     "main.css": "/6c-in-react/static/css/main.455dc742.chunk.css",
-    "main.js": "/6c-in-react/static/js/main.20cff7db.chunk.js",
-    "main.js.map": "/6c-in-react/static/js/main.20cff7db.chunk.js.map",
+    "main.js": "/6c-in-react/static/js/main.06909eaa.chunk.js",
+    "main.js.map": "/6c-in-react/static/js/main.06909eaa.chunk.js.map",
     "runtime-main.js": "/6c-in-react/static/js/runtime-main.ee43c9c3.js",
     "runtime-main.js.map": "/6c-in-react/static/js/runtime-main.ee43c9c3.js.map",
-    "static/js/2.5f160268.chunk.js": "/6c-in-react/static/js/2.5f160268.chunk.js",
-    "static/js/2.5f160268.chunk.js.map": "/6c-in-react/static/js/2.5f160268.chunk.js.map",
+    "static/js/2.956e8b2f.chunk.js": "/6c-in-react/static/js/2.956e8b2f.chunk.js",
+    "static/js/2.956e8b2f.chunk.js.map": "/6c-in-react/static/js/2.956e8b2f.chunk.js.map",
     "index.html": "/6c-in-react/index.html",
-    "precache-manifest.e22164961bb87d61532964fc79b858a2.js": "/6c-in-react/precache-manifest.e22164961bb87d61532964fc79b858a2.js",
+    "precache-manifest.d72aa28d51ef034bb86c587601167038.js": "/6c-in-react/precache-manifest.d72aa28d51ef034bb86c587601167038.js",
     "service-worker.js": "/6c-in-react/service-worker.js",
     "static/css/main.455dc742.chunk.css.map": "/6c-in-react/static/css/main.455dc742.chunk.css.map",
-    "static/js/2.5f160268.chunk.js.LICENSE.txt": "/6c-in-react/static/js/2.5f160268.chunk.js.LICENSE.txt",
+    "static/js/2.956e8b2f.chunk.js.LICENSE.txt": "/6c-in-react/static/js/2.956e8b2f.chunk.js.LICENSE.txt",
     "static/media/karta1.jpg": "/6c-in-react/static/media/karta1.c445543c.jpg",
     "static/media/spr1.pdf": "/6c-in-react/static/media/spr1.fde62acf.pdf",
     "static/media/zad1.pdf": "/6c-in-react/static/media/zad1.318eff2f.pdf",
     "static/media/zad2.pdf": "/6c-in-react/static/media/zad2.273857e3.pdf",
     "static/media/zad3.pdf": "/6c-in-react/static/media/zad3.896f6a77.pdf",
     "static/media/zad4.pdf": "/6c-in-react/static/media/zad4.f0a308a3.pdf",
-    "static/media/zad5.pdf": "/6c-in-react/static/media/zad5.886e92d1.pdf"
+    "static/media/zad5.pdf": "/6c-in-react/static/media/zad5.886e92d1.pdf",
+    "static/media/zad6.pdf": "/6c-in-react/static/media/zad6.bc8d8fe3.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.ee43c9c3.js",
-    "static/js/2.5f160268.chunk.js",
+    "static/js/2.956e8b2f.chunk.js",
     "static/css/main.455dc742.chunk.css",
-    "static/js/main.20cff7db.chunk.js"
+    "static/js/main.06909eaa.chunk.js"
   ]
 }
