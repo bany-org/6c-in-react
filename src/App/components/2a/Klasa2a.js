@@ -12,6 +12,19 @@ function Klasa2a() {
     return (
         <div className="content">
             <Header subject="zadania" teacher="Barbara Biskup" />
+            <Lesson date="01.04.2020">
+                Witam! Lekcje na dzisiaj : j.polski w zeszycie należy napisać
+                Praca w domu i 01.04.2020r. Od nowej linijki wypisać do zeszytu
+                z podręcznika str.32-33 z tekstu „Pesteczka” wszystkie wyrazy z
+                rz, po wypisaniu ułożyć i napisać 5 zdań z wybranymi wyrazami.
+                Matematyka wykonujemy ćwiczenia str. 38-39. Plastyka z rolki po
+                papierze toaletowym wykonujemy zajączka : rolka to brzuszek , na
+                górze doklejamy długie uszy, naklejamy oczy, nosek , na dole i z
+                boków łapki. Kolor jest dowolny. Można poszukać jakieś obrazki
+                czy zdjęcia w internecie żeby sobie pomóc w pracy. Zdjęcie
+                zajączka do oceny proszę wysłać do piątku. Pozdrawiam
+                wszystkich!
+            </Lesson>
             <Info date="30.03.2020">
                 Niniejszym przesyłam materiały audio na nauki jęz. ang.
                 <LinkButton
